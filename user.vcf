@@ -5,9 +5,9 @@ N:Miller;Andrew;;;
 FN: Andrew  Miller 
 ORG:ATB Properties LLC;
 TITLE:Andrew buys houses
-EMAIL;type=INTERNET;type=WORK;type=pref:tbirdpropertiesllc.nc@gmail.com
+EMAIL;type=INTERNET;type=WORK;type=pref:atbpropertiesllc.nc@gmail.com
 TEL;type=WORK;type=VOICE:+1 757 672 8562
-item1.ADR;type=WORK;type=pref:;;Triangle | Fayetteville;;;;
+item1.ADR;type=WORK;type=pref:;;North Carolina | Triangle local;;;;
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.facebook.com/profile.php?id=100059345703888
 item2.X-ABLabel:_$!<HomePage>!$_
