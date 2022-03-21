@@ -5,10 +5,10 @@ N:Miller;Andrew;;;
 FN: Andrew  Miller 
 ORG:Good Property Group LLC;
 TITLE:We buys houses
-EMAIL;type=INTERNET;type=WORK;type=pref:ATBpropertiesLLC.nc@gmail.com
+EMAIL;type=INTERNET;type=WORK;type=pref:GoodPropertyGroup.nc@gmail.com
 TEL;type=WORK;type=VOICE:+1 757 672 8562
 item1.ADR;type=WORK;type=pref:;;North Carolina | Triangle local;;;;
 item1.X-ABADR:sg
-item2.URL;type=pref:https://www.facebook.com/profile.php?id=100059345703888
+item2.URL;type=pref:https://www.google.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
